@@ -14,8 +14,8 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "28630777" # integer value, dont use ""
-    API_HASH = "41962bd1035fcbd5c0243cec216a6e23"
+    API_ID = "21486484" # integer value, dont use ""
+    API_HASH = "f1c71dd777389b5c66cff5b16a5aab85"
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = "6545714937" # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "ROCKY_ISS_BACK"
@@ -26,7 +26,7 @@ class Config(object):
     EVENT_LOGS = (
         -1001885729197
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    MONGO_DB_URI= "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI= "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = ""  # needed for any database modules
     LOAD = []
