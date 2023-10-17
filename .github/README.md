@@ -2,7 +2,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**ROCKY-D3V/XDROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ROCKY-D3V/BOT-OF-JAAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 
 <h2 align="center">
-    ●⏤˹✘∂ ʀσвσƚ˼⏤●​​​​​
+    ༙『ѕΔиʋι χᴅ ᴍυѕιᴄ』༙
 </h2>
 
 <p align="center">
   <img src="https://graph.org/file/a1503f6a173c13523ecc3.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [●⏤˹✘∂ ɱυѕιᴄ˼⏤●](https://t.me/ADVANCE_XD_BOT)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [༙『ѕΔиʋι χᴅ ᴍυѕιᴄ』༙](https://t.me/XD_MUSIC_R0BOT)
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -34,7 +34,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ROCKY-D3V/XDROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ROCKY-D3V/BOT-OF-JAAN"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
